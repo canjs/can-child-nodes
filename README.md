@@ -5,8 +5,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/canjs/can-child-nodes/blob/master/LICENSE)
 [![npm version](https://badge.fury.io/js/can-child-nodes.svg)](https://www.npmjs.com/package/can-child-nodes)
 [![Travis build status](https://travis-ci.org/canjs/can-child-nodes.svg?branch=master)](https://travis-ci.org/canjs/can-child-nodes)
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/canjs/can-child-nodes?branch=master&svg=true)](https://ci.appveyor.com/project/matthewp/can-child-nodes)
-[![Coverage status](https://coveralls.io/repos/github/canjs/can-child-nodes/badge.svg?branch=master)](https://coveralls.io/github/canjs/can-child-nodes?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/canjs/can-child-nodes.svg)](https://greenkeeper.io/)
 
 Read child nodes from elements
