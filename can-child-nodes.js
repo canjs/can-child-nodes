@@ -7,6 +7,7 @@ var namespace = require("can-namespace");
  * @module {function} can-child-nodes
  * @parent can-dom-utilities
  * @collection can-infrastructure
+ * @package ./package.json
  * 
  * @signature `childNodes(node)`
  *
