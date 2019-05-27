@@ -1,6 +1,6 @@
 {
   "name": "can-child-nodes",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Read child nodes from elements",
   "homepage": "http://canjs",
   "repository": {
