@@ -3,8 +3,8 @@ var childNodes = require('./can-child-nodes');
 
 QUnit.module('can-child-nodes');
 
-QUnit.test('Initialized the plugin', function(){
+QUnit.test('Initialized the plugin', function(assert) {
     var div = document.createElement("div");
     div.innerHTML = "<span></span>";
-    QUnit.equal(childNodes(div).length, 1);
+    assert.equal(childNodes(div).length, 1);
 });
